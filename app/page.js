@@ -1,3 +1,4 @@
+"use client";
 import styles from "./page.module.css";
 import ProgramList from "../Components/ProgramList";
 import FunctionList from "../Components/FunctionList";
